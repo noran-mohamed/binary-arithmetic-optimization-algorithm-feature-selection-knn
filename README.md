@@ -2,7 +2,8 @@
 This repository contains a complete implementation of a feature selection framework inspired by the BAOA (Binary AOA) algorithm proposed in the original research paper.  
 "BAOA: Binary Arithmetic Optimization Algorithm With K-Nearest Neighbor Classifier for Feature Selection", 
 
-[https://ieeexplore.ieee.org/abstract/document/10234579#:~:text=10.1109/ACCESS.2023.3310429] (DOI: 10.1109/ACCESS.2023.3310429)
+[BAOA Paper](https://ieeexplore.ieee.org/abstract/document/10234579)  
+DOI: 10.1109/ACCESS.2023.3310429
 
 The notebook applies BAOA to real datasets and compares its performance against four other binary optimization algorithms commonly used in feature selection.
 
