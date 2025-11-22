@@ -27,7 +27,9 @@ The fitness score is defined as a weighted combination of:
 
 - Classification error using KNN
 - Ratio of selected features to total features
-
+```
+  Fitness = α * (Classification Error Rate) + β * (|Selected Features| / |Total Features|)
+```
 If no feature is selected, the worst possible fitness value is automatically assigned.
 
 ### BAOA Optimization Logic
